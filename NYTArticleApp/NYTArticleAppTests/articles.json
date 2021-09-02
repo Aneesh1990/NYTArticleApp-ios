@@ -1,0 +1,1238 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/283b0d18-e935-51f4-b975-8ff4b869b40d",
+            "url": "https://www.nytimes.com/2021/08/25/arts/music/spencer-alden-nirvana-nevermind.html",
+            "id": 100000007938314,
+            "asset_id": 100000007938314,
+            "source": "New York Times",
+            "published_date": "2021-08-25",
+            "updated": "2021-08-27 11:50:05",
+            "section": "Arts",
+            "subsection": "Music",
+            "nytdsection": "arts",
+            "adx_keywords": "Suits and Litigation (Civil);Child Pornography;Pop and Rock Music;Babies and Infants;Photography;Cobain, Kurt;Elden, Spencer;Nirvana (Music Group);California",
+            "column": null,
+            "byline": "By Maria Cramer",
+            "type": "Article",
+            "title": "Why the Baby on Nirvana’s ‘Nevermind’ Album Is Suing Now",
+            "abstract": "Spencer Elden, 30, says Nirvana engaged in child pornography when the band used a picture of him naked on the cover of the breakthrough album.",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Child Pornography",
+                "Pop and Rock Music",
+                "Babies and Infants",
+                "Photography"
+            ],
+            "org_facet": [
+                "Nirvana (Music Group)"
+            ],
+            "per_facet": [
+                "Cobain, Kurt",
+                "Elden, Spencer"
+            ],
+            "geo_facet": [
+                "California"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Spencer Elden says he has grown increasingly uncomfortable with how he came to be on the cover of &ldquo;Nevermind.&rdquo; This picture was taken in 2016 at the same pool, when he and the record were both 25.",
+                    "copyright": "John Chapple/SplashNews",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/multimedia/25xp-nirvana4/25xp-nirvana4-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/multimedia/25xp-nirvana4/25xp-nirvana4-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/multimedia/25xp-nirvana4/25xp-nirvana4-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d891e5bf-00b9-5883-ae41-50100872de7a",
+            "url": "https://www.nytimes.com/2021/08/26/us/harvard-chaplain-greg-epstein.html",
+            "id": 100000007923103,
+            "asset_id": 100000007923103,
+            "source": "New York Times",
+            "published_date": "2021-08-26",
+            "updated": "2021-08-27 10:45:21",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Chaplains;Religion and Belief;Atheism;Content Type: Personal Profile;Epstein, Greg M;Harvard University",
+            "column": null,
+            "byline": "By Emma Goldberg",
+            "type": "Article",
+            "title": "The New Chief Chaplain at Harvard? An Atheist.",
+            "abstract": "The elevation of Greg Epstein, author of “Good Without God,” reflects a broader trend of young people who increasingly identify as spiritual but religiously nonaffiliated.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Chaplains",
+                "Religion and Belief",
+                "Atheism",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Harvard University"
+            ],
+            "per_facet": [
+                "Epstein, Greg M"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greg Epstein has been Harvard’s humanist chaplain since 2005.",
+                    "copyright": "Cody O'Loughlin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/us/26harvard-chaplains/26harvard-chaplains-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/us/26harvard-chaplains/26harvard-chaplains-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/us/26harvard-chaplains/26harvard-chaplains-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/98e06764-eb19-5237-8bde-43c87cc518a6",
+            "url": "https://www.nytimes.com/2021/08/30/nyregion/child-dead-foster-care.html",
+            "id": 100000007925051,
+            "asset_id": 100000007925051,
+            "source": "New York Times",
+            "published_date": "2021-08-30",
+            "updated": "2021-08-30 22:14:21",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Child Abuse and Neglect;Child Custody and Support;Parenting;Foster Care;Deaths (Fatalities);Batties, Julissia;Administration for Children's Services (NYC);Office of Children and Family Services (NYS);Bronx (NYC);New York City",
+            "column": null,
+            "byline": "By Michael Wilson, Ashley Southall and Chelsia Rose Marcius",
+            "type": "Article",
+            "title": "At Birth, She Already Had a Case File. At 7 Years Old, She Was Dead.",
+            "abstract": "A child welfare system meant to protect Julissia Batties from an abusive home life failed the ultimate test.",
+            "des_facet": [
+                "Child Abuse and Neglect",
+                "Child Custody and Support",
+                "Parenting",
+                "Foster Care",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "Administration for Children's Services (NYC)",
+                "Office of Children and Family Services (NYS)"
+            ],
+            "per_facet": [
+                "Batties, Julissia"
+            ],
+            "geo_facet": [
+                "Bronx (NYC)",
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Desiree Rios for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/nyregion/00julissia-promo/00julissia-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/nyregion/00julissia-promo/00julissia-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/nyregion/00julissia-promo/00julissia-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dc5fdba7-8d06-5fa8-a1dd-8b41f2eb0d1e",
+            "url": "https://www.nytimes.com/2021/08/27/world/texas-anti-mask-organizer-clings-to-life-in-a-battle-with-covid-19.html",
+            "id": 100000007942849,
+            "asset_id": 100000007942849,
+            "source": "New York Times",
+            "published_date": "2021-08-27",
+            "updated": "2021-08-30 17:08:17",
+            "section": "World",
+            "subsection": "",
+            "nytdsection": "world",
+            "adx_keywords": "Coronavirus (2019-nCoV);Masks;Vaccination and Immunization;Deaths (Fatalities);Wallace, Caleb (1991-2021);San Angelo (Tex)",
+            "column": null,
+            "byline": "By Shefali S. Kulkarni",
+            "type": "Article",
+            "title": "Texas anti-mask organizer clings to life in a battle with Covid-19.",
+            "abstract": "Caleb Wallace, a leader in the anti-mask movement in San Angelo, Texas, is in an intensive care unit and his wife says his condition is life-threatening.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Masks",
+                "Vaccination and Immunization",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Wallace, Caleb (1991-2021)"
+            ],
+            "geo_facet": [
+                "San Angelo (Tex)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jessica Wallace with her children at their home in San Angelo, Texas.",
+                    "copyright": "Colin Murphey/San Angelo Standard-Times",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-caleb-wallace-03-02/27virus-briefing-caleb-wallace-03-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-caleb-wallace-03-02/27virus-briefing-caleb-wallace-03-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-caleb-wallace-03-02/27virus-briefing-caleb-wallace-03-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6a103766-5013-509d-9692-5cd783fcf9b7",
+            "url": "https://www.nytimes.com/2021/08/25/opinion/afghanistan-taliban-army.html",
+            "id": 100000007934432,
+            "asset_id": 100000007934432,
+            "source": "New York Times",
+            "published_date": "2021-08-25",
+            "updated": "2021-08-26 15:55:09",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Afghanistan War (2001- );Defense and Military Forces;United States Defense and Military Forces;United States International Relations;Corruption (Institutional);Politics and Government;Military Aircraft;Ghani, Ashraf;Biden, Joseph R Jr;Trump, Donald J;Afghan National Army;Afghan National Security Forces;Taliban;Afghanistan",
+            "column": null,
+            "byline": "By Sami Sadat",
+            "type": "Article",
+            "title": "I Commanded Afghan Troops This Year. We Were Betrayed.",
+            "abstract": "It pains me to see President Biden and other Western officials blame the Afghan Army for collapsing but not mention why that happened.",
+            "des_facet": [
+                "Afghanistan War (2001- )",
+                "Defense and Military Forces",
+                "United States Defense and Military Forces",
+                "United States International Relations",
+                "Corruption (Institutional)",
+                "Politics and Government",
+                "Military Aircraft"
+            ],
+            "org_facet": [
+                "Afghan National Army",
+                "Afghan National Security Forces",
+                "Taliban"
+            ],
+            "per_facet": [
+                "Ghani, Ashraf",
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Afghanistan"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hoshang Hashimi/Agence France-Presse &mdash; Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/opinion/25sadat/25sadat-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/opinion/25sadat/25sadat-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/opinion/25sadat/25sadat-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1068b793-5794-5df6-b00f-d7822a7404d1",
+            "url": "https://www.nytimes.com/es/2021/08/30/espanol/variante-delta-clases-california-contagio.html",
+            "id": 100000007946056,
+            "asset_id": 100000007946056,
+            "source": "New York Times",
+            "published_date": "2021-08-30",
+            "updated": "2021-08-30 15:11:55",
+            "section": "en Español",
+            "subsection": "",
+            "nytdsection": "en español",
+            "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus Delta Variant;Disease Rates;Education (K-12);Coronavirus (2019-nCoV);Vaccination and Immunization;Youth;Clinical Trials;Deaths (Fatalities);Centers for Disease Control and Prevention;California;Los Angeles County (Calif);Marin County (Calif);United States",
+            "column": null,
+            "byline": "By Sabrina Imbler and Emily Anthes",
+            "type": "Article",
+            "title": "La variante delta se infiltró en un aula de primaria. Así sucedió",
+            "abstract": "Un detallado estudio realizado en California descubrió que la variante se propagó fácilmente de una profesora no vacunada a los niños y, en algunos casos, a sus familias.",
+            "des_facet": [
+                "Coronavirus Risks and Safety Concerns",
+                "Coronavirus Delta Variant",
+                "Disease Rates",
+                "Education (K-12)",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Youth",
+                "Clinical Trials",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "California",
+                "Los Angeles County (Calif)",
+                "Marin County (Calif)",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tres nuevos informes de los CDC publicados el viernes se enfocan en las escuelas o los niños, incluido uno que muestra que las escuelas pueden ser entornos de bajo riesgo siempre que se tomen ciertas precauciones.",
+                    "copyright": "Jae C. Hong/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/science/27virus-classroom1-esp-1/27virus-classroom1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/science/27virus-classroom1-esp-1/27virus-classroom1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/science/27virus-classroom1-esp-1/27virus-classroom1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0628df60-ff92-57da-abdb-64d5e036c90c",
+            "url": "https://www.nytimes.com/2021/08/29/world/europe/eu-us-travel-restrictions.html",
+            "id": 100000007945002,
+            "asset_id": 100000007945002,
+            "source": "New York Times",
+            "published_date": "2021-08-29",
+            "updated": "2021-08-30 17:07:37",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Travel Warnings;Coronavirus (2019-nCoV);Vaccination and Immunization;European Union;Europe;United States",
+            "column": null,
+            "byline": "By Elian Peltier and Steven Erlanger",
+            "type": "Article",
+            "title": "E.U. Set to Propose Travel Restrictions on U.S. Visitors",
+            "abstract": "Three officials from the bloc said that starting Monday, the European Council would advise its member states to ban nonessential travel from the United States.",
+            "des_facet": [
+                "Travel Warnings",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [
+                "European Union"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Passengers from countries listed as Covid-19 red zones registering for coronavirus tests upon their arrival at Paris Charles de Gaulle Airport, in April.",
+                    "copyright": "Pool photo by Ian Langsdon",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/29/world/29eu-travel-03/29eu-travel-03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/29/world/29eu-travel-03/29eu-travel-03-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/29/world/29eu-travel-03/29eu-travel-03-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3f9930b9-a264-5e45-9fd5-73fd22d1d249",
+            "url": "https://www.nytimes.com/2021/08/30/us/caldor-fire-evauation-order-california.html",
+            "id": 100000007946719,
+            "asset_id": 100000007946719,
+            "source": "New York Times",
+            "published_date": "2021-08-30",
+            "updated": "2021-09-01 10:18:14",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Wildfires;Evacuations and Evacuees;California;Lake Tahoe (Nev);Nevada;South Lake Tahoe (Calif);Sierra Nevada Region (US)",
+            "column": null,
+            "byline": "By Neil Vigdor and Thomas Fuller",
+            "type": "Article",
+            "title": "Evacuations Ordered Near Lake Tahoe as the Caldor Fire Chokes Region",
+            "abstract": "The fire had spread to more than 186,000 acres and was 15 percent contained, according to Cal Fire.",
+            "des_facet": [
+                "Wildfires",
+                "Evacuations and Evacuees"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "California",
+                "Lake Tahoe (Nev)",
+                "Nevada",
+                "South Lake Tahoe (Calif)",
+                "Sierra Nevada Region (US)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b581d36c-54bb-581a-88dc-5bc0086a5dbb",
+            "url": "https://www.nytimes.com/2021/08/27/world/asia/marine-killed.html",
+            "id": 100000007943308,
+            "asset_id": 100000007943308,
+            "source": "New York Times",
+            "published_date": "2021-08-27",
+            "updated": "2021-08-29 11:50:38",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Afghanistan War (2001- );United States Defense and Military Forces;Deaths (Fatalities);Terrorism;McCollum, Rylee J (2001-2021);Soviak, Maxton W (d 2021);United States Marine Corps;United States Navy;Kabul International Airport;Kabul (Afghanistan);Afghanistan",
+            "column": null,
+            "byline": "By Jack Healy and Dave Philipps",
+            "type": "Article",
+            "title": "He was a baby on 9/11. Now he’s one of the last casualties of America’s longest war.",
+            "abstract": "Rylee McCollum, barely older than the war itself, had a wife and a baby on the way. He was one of the first publicly identified American victims of the suicide bombing at Kabul’s airport.",
+            "des_facet": [
+                "Afghanistan War (2001- )",
+                "United States Defense and Military Forces",
+                "Deaths (Fatalities)",
+                "Terrorism"
+            ],
+            "org_facet": [
+                "United States Marine Corps",
+                "United States Navy",
+                "Kabul International Airport"
+            ],
+            "per_facet": [
+                "McCollum, Rylee J (2001-2021)",
+                "Soviak, Maxton W (d 2021)"
+            ],
+            "geo_facet": [
+                "Kabul (Afghanistan)",
+                "Afghanistan"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lance Cpl. Rylee McCollum, a U.S. Marine, was killed in the suicide bombing at the Kabul airport in Afghanistan on Thursday.",
+                    "copyright": "via the McCollum Family",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/us/27afghan-marine/27afghan-marine-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/us/27afghan-marine/27afghan-marine-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/us/27afghan-marine/27afghan-marine-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e8dcaebf-b826-50ea-88d3-b8d3a8e446c2",
+            "url": "https://www.nytimes.com/2021/08/29/arts/television/ed-asner-dead.html",
+            "id": 100000006748166,
+            "asset_id": 100000006748166,
+            "source": "New York Times",
+            "published_date": "2021-08-29",
+            "updated": "2021-08-30 00:34:59",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Television;Movies;Asner, Ed",
+            "column": null,
+            "byline": "By Anita Gates",
+            "type": "Article",
+            "title": "Ed Asner, Emmy-Winning Star of ‘Lou Grant’ and ‘Up,’ Dies at 91",
+            "abstract": "Best known as the gruff newsman he first played on “The Mary Tyler Moore Show,” he was also a busy character actor and a political activist.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Actors and Actresses",
+                "Television",
+                "Movies"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Asner, Ed"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ed Asner on the set of &ldquo;Lou Grant&rdquo; in 1980. He played the title role on the show, a one-hour drama, the same role he had played for laughs on &ldquo;The Mary Tyler Moore Show.&rdquo;",
+                    "copyright": "Wally Fong/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/30/obituaries/30asner-obit3/00asner-toppix-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/30/obituaries/30asner-obit3/00asner-toppix-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/30/obituaries/30asner-obit3/00asner-toppix-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9a13f368-0205-52ef-a81a-a6d58b4eb318",
+            "url": "https://www.nytimes.com/2021/08/26/opinion/afghanistan-us-withdrawal.html",
+            "id": 100000007935777,
+            "asset_id": 100000007935777,
+            "source": "New York Times",
+            "published_date": "2021-08-26",
+            "updated": "2021-08-28 14:35:39",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States International Relations;United States Defense and Military Forces;United States Politics and Government;Afghanistan War (2001- );Refugees and Displaced Persons;Biden, Joseph R Jr;Afghanistan",
+            "column": null,
+            "byline": "By Ezra Klein",
+            "type": "Article",
+            "title": "Let’s Not Pretend That the Way We Withdrew From Afghanistan Was the Problem",
+            "abstract": "Our ignominious exit reflects the failure of America’s foreign policy establishment at both prediction and policymaking.",
+            "des_facet": [
+                "United States International Relations",
+                "United States Defense and Military Forces",
+                "United States Politics and Government",
+                "Afghanistan War (2001- )",
+                "Refugees and Displaced Persons"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Afghanistan"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " ",
+                    "copyright": "Bryan Denton for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/opinion/26klein-lead/26klein-lead-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/opinion/26klein-lead/26klein-lead-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/opinion/26klein-lead/26klein-lead-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4b2a0cb1-333f-5964-87ef-51157e503d82",
+            "url": "https://www.nytimes.com/2021/08/25/us/florida-covid-deaths.html",
+            "id": 100000007936911,
+            "asset_id": 100000007936911,
+            "source": "New York Times",
+            "published_date": "2021-08-25",
+            "updated": "2021-08-26 22:40:50",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Coronavirus Delta Variant;Hospitals;Vaccination and Immunization;Deaths (Fatalities);Florida",
+            "column": null,
+            "byline": "By Dan Levin",
+            "type": "Article",
+            "title": "In Florida, the pandemic is worse now than it has ever been before.",
+            "abstract": "The fast spread of the Delta variant in the state, including among younger adults, has driven case, hospitalization and death tolls to record heights.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates",
+                "Coronavirus Delta Variant",
+                "Hospitals",
+                "Vaccination and Immunization",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Florida"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paramedics admitting a patient to the emergency room at the Morton Plant Hospital in Clearwater, Fla., this month.",
+                    "copyright": "Octavio Jones/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/24/us/24virus-briefing-florida-deaths1/24virus-briefing-florida-deaths1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/24/us/24virus-briefing-florida-deaths1/24virus-briefing-florida-deaths1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/24/us/24virus-briefing-florida-deaths1/24virus-briefing-florida-deaths1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b0381dc5-5015-5e9d-9a85-007ea7de5c70",
+            "url": "https://www.nytimes.com/2021/08/25/us/miami-building-collapse-surfside.html",
+            "id": 100000007893678,
+            "asset_id": 100000007893678,
+            "source": "New York Times",
+            "published_date": "2021-08-25",
+            "updated": "2021-09-01 19:52:09",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Surfside, Fla, Building Collapse (2021);Building (Construction);Buildings (Structures);Condominiums;Accidents and Safety;Regulation and Deregulation of Industry;Reiber, Nathan (1927-2014);Surfside (Fla)",
+            "column": null,
+            "byline": "By Mike Baker and Michael LaForgia",
+            "type": "Article",
+            "title": "‘They Were Bullies’: Inside the Turbulent Origins of the Collapsed Florida Condo",
+            "abstract": "The team that developed Champlain Towers managed to build the condos despite checkered pasts, internal strife and a last-minute change that infuriated leaders in Surfside, Fla.",
+            "des_facet": [
+                "Surfside, Fla, Building Collapse (2021)",
+                "Building (Construction)",
+                "Buildings (Structures)",
+                "Condominiums",
+                "Accidents and Safety",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Reiber, Nathan (1927-2014)"
+            ],
+            "geo_facet": [
+                "Surfside (Fla)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Champlain Towers South condominium, right, before it partially collapsed in June.",
+                    "copyright": "Jeffrey Greenberg/Universal Images Group, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/06/us/00miami-collapse/00miami-collapse-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/06/us/00miami-collapse/00miami-collapse-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/06/us/00miami-collapse/00miami-collapse-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6f86f97d-5f53-506c-a31d-8a20985d4a02",
+            "url": "https://www.nytimes.com/2021/08/26/world/asia/afghanistan-interpreters-evacuation.html",
+            "id": 100000007935972,
+            "asset_id": 100000007935972,
+            "source": "New York Times",
+            "published_date": "2021-08-26",
+            "updated": "2021-08-27 15:49:40",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Afghanistan War (2001- );Translation and Interpreters;United States Defense and Military Forces;Evacuations and Evacuees;Taliban;Kabul (Afghanistan);Afghanistan",
+            "column": null,
+            "byline": "By Farnaz Fassihi",
+            "type": "Article",
+            "title": "A Stranded Interpreter, and the Soldiers Who Would Not Let Go",
+            "abstract": "Many Afghans who helped U.S. forces in Afghanistan are now in danger. One spoke to us about his battle to get his family out alive as he hid in Kabul.",
+            "des_facet": [
+                "Afghanistan War (2001- )",
+                "Translation and Interpreters",
+                "United States Defense and Military Forces",
+                "Evacuations and Evacuees"
+            ],
+            "org_facet": [
+                "Taliban"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Kabul (Afghanistan)",
+                "Afghanistan"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Families arriving at Kabul’s airport at dawn on Tuesday, hoping to make it onto a flight out of the country.",
+                    "copyright": "Jim Huylebroek for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/24/world/24AFGHAN-TRANSLATOR1/24AFGHAN-TRANSLATOR1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/24/world/24AFGHAN-TRANSLATOR1/24AFGHAN-TRANSLATOR1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/24/world/24AFGHAN-TRANSLATOR1/24AFGHAN-TRANSLATOR1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a8562cc1-b5e8-5e39-aaa3-70d4b72a6d71",
+            "url": "https://www.nytimes.com/2021/08/27/us/children-covid-delta.html",
+            "id": 100000007933980,
+            "asset_id": 100000007933980,
+            "source": "New York Times",
+            "published_date": "2021-08-27",
+            "updated": "2021-08-30 08:37:04",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Children and Childhood;Coronavirus Delta Variant;Disease Rates;Emergency Medical Treatment;Hospitals;Children's Hospital of New Orleans;New Orleans (La)",
+            "column": null,
+            "byline": "By Noah Weiland and Erin Schaff",
+            "type": "Article",
+            "title": "At a Children’s Hospital, a Wave of Young Patients Struggling to Breathe",
+            "abstract": "A federal “surge team” is helping exhausted doctors and nurses through one of the most trying periods in the history of Children’s Hospital New Orleans.",
+            "des_facet": [
+                "Children and Childhood",
+                "Coronavirus Delta Variant",
+                "Disease Rates",
+                "Emergency Medical Treatment",
+                "Hospitals"
+            ],
+            "org_facet": [
+                "Children's Hospital of New Orleans"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New Orleans (La)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Children&rsquo;s hospitals around the country are seeing a surge in Covid-19 patients, including this two-month-old baby in New Orleans.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/us/politics/28dc-virus-children1/00dc-virus-children1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/us/politics/28dc-virus-children1/merlin_193664862_592cf460-d3ea-4529-aa0e-214c4cc749c6-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/us/politics/28dc-virus-children1/merlin_193664862_592cf460-d3ea-4529-aa0e-214c4cc749c6-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f8408da9-46a6-5e43-b469-e7b841e22975",
+            "url": "https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html",
+            "id": 100000007942152,
+            "asset_id": 100000007942152,
+            "source": "New York Times",
+            "published_date": "2021-08-27",
+            "updated": "2021-08-27 18:19:59",
+            "section": "World",
+            "subsection": "",
+            "nytdsection": "world",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By Kaly Soto",
+            "type": "Article",
+            "title": "Denmark says Covid is no longer a ‘socially critical disease.’",
+            "abstract": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stores reopened in Copenhagen in March, as more people became vaccinated and Covid infection rates dropped.",
+                    "copyright": "Ritzau Scanpix/via Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/27virus-briefing-denmark-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/merlin_193467783_b92a26bb-a0f8-426a-8404-f3dcc98e7d79-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/merlin_193467783_b92a26bb-a0f8-426a-8404-f3dcc98e7d79-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cbf4e713-4368-5265-aee8-4f15ed4ac07e",
+            "url": "https://www.nytimes.com/article/us-soldiers-killed-afghanistan.html",
+            "id": 100000007944513,
+            "asset_id": 100000007944513,
+            "source": "New York Times",
+            "published_date": "2021-08-28",
+            "updated": "2021-08-29 13:57:58",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Defense and Military Forces;Afghanistan War (2001- );Terrorism;Hoover, Darin T (d 2021);Rosario Pichardo, Johanny (d 2021);Gee, Nicole L (d 2021);Lopez, Hunter (d 2021);Page, Daegan W (2021);Sanchez, Humberto A (d 2021);Espinoza, David L (d 2021);Schmitz, Jared M (d 2021);McCollum, Rylee J (2001-2021);Merola, Dylan R (d 2021);Nikoui, Kareem M (d 2021);Soviak, Maxton W (d 2021);Knauss, Ryan C (d 2021);United States Marine Corps;United States Navy;United States Army",
+            "column": null,
+            "byline": "By Nicholas Bogel-Burroughs",
+            "type": "Article",
+            "title": "What we know about the 13 U.S. service members killed in the Kabul attack.",
+            "abstract": "They had an average age of just over 22 and came from towns across the country.",
+            "des_facet": [
+                "United States Defense and Military Forces",
+                "Afghanistan War (2001- )",
+                "Terrorism"
+            ],
+            "org_facet": [
+                "United States Marine Corps",
+                "United States Navy",
+                "United States Army"
+            ],
+            "per_facet": [
+                "Hoover, Darin T (d 2021)",
+                "Rosario Pichardo, Johanny (d 2021)",
+                "Gee, Nicole L (d 2021)",
+                "Lopez, Hunter (d 2021)",
+                "Page, Daegan W (2021)",
+                "Sanchez, Humberto A (d 2021)",
+                "Espinoza, David L (d 2021)",
+                "Schmitz, Jared M (d 2021)",
+                "McCollum, Rylee J (2001-2021)",
+                "Merola, Dylan R (d 2021)",
+                "Nikoui, Kareem M (d 2021)",
+                "Soviak, Maxton W (d 2021)",
+                "Knauss, Ryan C (d 2021)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "tc",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/us/28afghan-deaths-grid/28afghan-deaths-grid-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/us/28afghan-deaths-grid/28afghan-deaths-grid-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/28/us/28afghan-deaths-grid/28afghan-deaths-grid-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d0e9e738-ed7a-5dfe-bdc8-4e6aa165c309",
+            "url": "https://www.nytimes.com/2021/08/24/style/cotton-totes-climate-crisis.html",
+            "id": 100000007877406,
+            "asset_id": 100000007877406,
+            "source": "New York Times",
+            "published_date": "2021-08-24",
+            "updated": "2021-09-01 14:49:17",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Handbags and Purses;Textiles;Fashion and Apparel;Cotton;Plastic Bags;Shopping and Retail;Sustainable Living;Recycling of Waste Materials;your-feed-fashion;Hindmarch, Anya",
+            "column": null,
+            "byline": "By Grace Cook",
+            "type": "Article",
+            "title": "The Cotton Tote Crisis",
+            "abstract": "You can get cotton bags pretty much everywhere. How did an environmental solution become part of the problem?",
+            "des_facet": [
+                "Handbags and Purses",
+                "Textiles",
+                "Fashion and Apparel",
+                "Cotton",
+                "Plastic Bags",
+                "Shopping and Retail",
+                "Sustainable Living",
+                "Recycling of Waste Materials",
+                "your-feed-fashion"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hindmarch, Anya"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A laundry line of cotton totes accumulated by a single person since the race to replace plastic began.",
+                    "copyright": "Suzie Howell for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/fashion/23cottontotes-1/23cottontotes-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/fashion/23cottontotes-1/23cottontotes-1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/fashion/23cottontotes-1/23cottontotes-1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7c6fb8e1-3c00-5960-8a02-d7eaeb5706ba",
+            "url": "https://www.nytimes.com/2021/08/28/us/politics/cia-base-destroyed-kabul.html",
+            "id": 100000007943532,
+            "asset_id": 100000007943532,
+            "source": "New York Times",
+            "published_date": "2021-08-27",
+            "updated": "2021-08-28 16:39:51",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Afghanistan War (2001- );Afghanistan;Kabul (Afghanistan)",
+            "column": null,
+            "byline": "By Julian E. Barnes and Farnaz Fassihi",
+            "type": "Article",
+            "title": "A heavily fortified C.I.A. base in Kabul is destroyed.",
+            "abstract": "With an explosion heard across Kabul, Americans destroyed the base so its contents would not fall to the Taliban.",
+            "des_facet": [
+                "Afghanistan War (2001- )"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Afghanistan",
+                "Kabul (Afghanistan)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Afghans outside Kabul’s airport on Thursday. While most Afghans trying to escape the city have gone to the airport, the C.I.A. has shepherded hundreds of others, at particular risk of reprisals, to a base it destroyed on Thursday.",
+                    "copyright": "Jim Huylebroek for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/us/politics/27dc-CIA-Base/merlin_193709970_43ddde8c-c6a5-46b3-9199-e1cb24872bda-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/us/politics/27dc-CIA-Base/merlin_193709970_43ddde8c-c6a5-46b3-9199-e1cb24872bda-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/us/politics/27dc-CIA-Base/merlin_193709970_43ddde8c-c6a5-46b3-9199-e1cb24872bda-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b4199ac1-8257-5ea0-9739-040af2787c43",
+            "url": "https://www.nytimes.com/2021/08/25/health/covid-myocarditis-vaccine.html",
+            "id": 100000007938558,
+            "asset_id": 100000007938558,
+            "source": "New York Times",
+            "published_date": "2021-08-25",
+            "updated": "2021-09-01 08:26:54",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Heart;Research;BioNTech SE;Pfizer Inc;New England Journal of Medicine",
+            "column": null,
+            "byline": "By Emily Anthes and Noah Weiland",
+            "type": "Article",
+            "title": "Heart Problem More Common After Covid-19 Than After Vaccination, Study Finds",
+            "abstract": "The research did not assess the risks specifically for young males, who are the most likely to develop the rare side effect.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Heart",
+                "Research"
+            ],
+            "org_facet": [
+                "BioNTech SE",
+                "Pfizer Inc",
+                "New England Journal of Medicine"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Administering a dose of the Pfizer-BioNtech vaccine at a mobile clinic near Moshav Dalton in northern Israel in February.",
+                    "copyright": "Jalaa Marey/Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/25/science/25virus-myocarditis1/25virus-myocarditis1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/25/science/25virus-myocarditis1/25virus-myocarditis1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/25/science/25virus-myocarditis1/25virus-myocarditis1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
