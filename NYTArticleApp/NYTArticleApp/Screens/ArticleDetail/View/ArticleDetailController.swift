@@ -19,6 +19,9 @@ class ArticleDetailController: BaseViewController {
     //MARK:- LifeCycle
     override func viewDidLoad() {
         super.viewDidLoad()
+        setupArticleData(article: article)
+    }
+    func setupArticleData(article:ArticleCellViewModel?){
         if let articleDetails = article {
             content.text         = articleDetails.heading
             byLabel.text         = articleDetails.userName
