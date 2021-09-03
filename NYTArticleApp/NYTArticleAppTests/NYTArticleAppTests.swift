@@ -31,7 +31,7 @@ class NYTArticleAppTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-    //Tested and parsed success
+    //Tested and parsed success - Periods.Day.rawValue can be use Week, Month instead of Day
     func testGetArticleAPI() {
         let expectation = self.expectation(description: "Testing Articles API get list - period  - Day")
         HttpRequestHelper().request(url: Constant.API.baseURL + Constant.Endpoint.mostpopular + "\(Periods.Day.rawValue).json",method:.GET,params: ["api-key": Constant.API.apiKey], httpHeader: .application_json) { result in
