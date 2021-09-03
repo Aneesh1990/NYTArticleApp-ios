@@ -9,7 +9,7 @@ import XCTest
 @testable import NYTArticleApp
 
 class NYTArticleAppTests: XCTestCase {
-    let apiRequest = HttpRequestHelper()
+    let articleService = ArticlesService()
     
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -22,6 +22,7 @@ class NYTArticleAppTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+      //  testParsResponse(period: .Day)
     }
 
     func testPerformanceExample() throws {
@@ -31,19 +32,24 @@ class NYTArticleAppTests: XCTestCase {
         }
     }
     //Tested and parsed success
-    func testParsResponse() {
-        let bundle = Bundle(for: type(of: self))
-        if let path = bundle.path(forResource: "articles", ofType: "json") {
-            if let data = try? Data.init(contentsOf: URL.init(fileURLWithPath: path)) {
-                let decoder = JSONDecoder()
-                let jsonData = try? decoder.decode(ArticlesResponse.self, from: data)
-                XCTAssertGreaterThan(jsonData!.articles?.count ?? 0, 0, "should have values")
-            } else {
-                XCTFail()
-            }
-        } else {
-            XCTFail()
+    func testGetArticleAPI() {
+        let expectation = self.expectation(description: "Testing Articles API get list - period  - Day")
+        HttpRequestHelper().request(url: Constant.API.baseURL + Constant.Endpoint.mostpopular + "\(Periods.Day.rawValue).json",method:.GET,params: ["api-key": Constant.API.apiKey], httpHeader: .application_json) { result in
+            switch result {
+            case .failure(let error):
+                XCTFail("Response failed due to \(error.localizedDescription)")
+            case .success(let data):
+                    do {
+                        let model = try JSONDecoder().decode(ArticlesResponse.self, from: data)
+                        XCTAssertNotNil(model)
+                        expectation.fulfill()
+                    } catch {
+                        XCTFail(Constant.ErrorMessage.parseError)
+                        
+                    }
+                }
         }
+        self.waitForExpectations(timeout: 10.0, handler: nil)
     }
 
 }
